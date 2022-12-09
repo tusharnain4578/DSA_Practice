@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            //windows c++ compiler path
+            "compilerPath": "E:\\System\\Compiler\\mingw64\\bin\\gcc.exe",
+            //ubuntu c++ comopiler path
+            // "compilerPath": "/usr/bin/clang",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            //windows c++ intellsense mode
+            "intelliSenseMode": "windows-gcc-x64"
+            //ubuntu c++ intellsense mode
+            // "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
