@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-    // he
+    cout << '7' - '0';
+    // hey mama
+
     return 0;
 }
